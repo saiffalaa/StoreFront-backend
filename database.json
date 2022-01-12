@@ -1,0 +1,18 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "127.0.0.1",
+    "database": "worlds",
+    "port": "3002",
+    "user": "postgres",
+    "password": "saif"
+  },
+  "test": {
+    "driver": "pg",
+    "host": "127.0.0.1",
+    "database": "testdb",
+    "port": "3002",
+    "user": "postgres",
+    "password": "saif"
+  }
+}
